@@ -6,8 +6,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20034-ayli
 x-kinRank: "7"
 x-alexaRank: "156410"
 tags: Aylien
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-29"
+modified: "2018-08-29"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aylien/master/_listings/aylien/apis.md
 specificationVersion: "0.14"
 apis:
